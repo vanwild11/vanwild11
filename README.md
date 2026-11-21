@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Привет! Я Vanwild
 
-<!--
-**vanwild11/vanwild11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Разработка приложений и автоматизация с ИИ
 
-Here are some ideas to get you started:
+Создаю собственные программы для **macOS и Windows**, экспериментирую с искусственным интеллектом и разрабатываю инструменты автоматизации.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Направления разработки
+
+- 🤖 Искусственный интеллект и AI-агенты
+- 🍏 Приложения для macOS
+- 🖥️ Программы для Windows
+- ⚡ Автоматизация повседневных задач
+- 🛠️ Python, JavaScript, API и серверные технологии
+
+### 📦 Мои проекты
+
+Здесь будут опубликованы мои приложения, обновления и инструменты.
+
+### 📬 Связь
+
+Telegram: https://t.me/ivanAI22 
+
+---
+*Создаю технологии, которые упрощают жизнь.*
