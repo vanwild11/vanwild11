@@ -57,8 +57,8 @@
 
 ## 🛠 Сейчас
 
-- Довожу **ViralCut 1.2.0** — стабильный релиз для macOS и Windows.
-- Собираю Windows-сборку и GitHub Actions.
+- Довожу **ViralCut 1.2.1** — стабильный релиз для macOS и Windows.
+- Исправил запуск Windows-сборки: pythonnet и `Python.Runtime.dll`.
 - Экспериментирую с AI-агентами и автоматизацией видео.
 
 ## 📬 Связаться
